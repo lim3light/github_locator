@@ -1,2 +1,2 @@
 # github_locator
-to locate gitthub profiles or other users
+to locate gitthub profiles of other users
